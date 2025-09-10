@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893883904795",
+    "project_id": "fieldside-v2-v7id21",
+    "storage_bucket": "fieldside-v2-v7id21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893883904795:android:e67bfff6a9a1cb358299be",
+        "android_client_info": {
+          "package_name": "com.codeforge.fieldside2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL7ojiy2SvFdg0DTurLMPqQv6jN5Yw4ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
