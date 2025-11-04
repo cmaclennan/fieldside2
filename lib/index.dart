@@ -77,3 +77,5 @@ export '/sheraton/mirage_dashboard/mirage_dashboard_widget.dart'
     show MirageDashboardWidget;
 export '/sea_temple/sea_temple_dashboard/sea_temple_dashboard_widget.dart'
     show SeaTempleDashboardWidget;
+export '/sea_temple/sea_temple_units_status/sea_temple_units_status_widget.dart'
+    show SeaTempleUnitsStatusWidget;

@@ -531,6 +531,12 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
               path: SeaTempleDashboardWidget.routePath,
               requireAuth: true,
               builder: (context, params) => SeaTempleDashboardWidget(),
+            ),
+            FFRoute(
+              name: SeaTempleUnitsStatusWidget.routeName,
+              path: SeaTempleUnitsStatusWidget.routePath,
+              requireAuth: true,
+              builder: (context, params) => SeaTempleUnitsStatusWidget(),
             )
           ].map((r) => r.toRoute(appStateNotifier)).toList(),
         ),
